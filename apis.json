@@ -1,0 +1,46 @@
+{
+    "name": "Bridge Software Systems",
+    "description": "<p>Bridge connects the world&rsquo;s most successful Cloud based software systems to complete the workflows businesses need to efficiently compete in a software dependent economy. Bridge services include API development, API integrations, and custom middleware development for Born in the Cloud SaaS companies and their clients. Bridge partners with SaaS companies to build APIs for their software, and offer the API integration and middleware development and maintenance services that create a complete solution for their clients, allowing SaaS companies to gain and keep more clients. SaaS clients with API integrated systems are able to complete workflows across multiple systems and reduce costs by eliminating lag time, manual labor, and human errors associated with manually bridging the gap between software systems. We build the &ldquo;Bridge&rdquo; between software systems.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/bridge-software.gif",
+    "tags": [
+        "agencies",
+        "api service provider",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bridge-software-systems\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Bridge Software Systems",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/bridge-software.gif",
+            "humanURL": "https:\/\/www.bridgesoftware.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bridge-software-systems-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.bridgesoftware.com\/blog"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com\/company\/bridge-software-llc\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.bridgesoftware.com"
+        }
+    ]
+}
